@@ -3,7 +3,7 @@
 
 Chessi is a WPF application written in C#. It was developed as a learning project by me (beginner programmer with an interest in both chess and coding). 
 The application analyzes Portable Game Notation (PGN) files to provide insights about chess games, such as which piece performs the checkmate most often.
-
+Would love to have anyone contribute to making Chessi more comprehensive and fulfill ## Future Plans
 ## Features
 
 - Load a PGN file and display its contents
